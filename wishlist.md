@@ -20,7 +20,7 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 
 
 # Music
-- [x] AKAI Professional Fire (Controller Only) - **$140** - [link](https://www.amazon.com/dp/B08284R4JZ/)
+~~- [x] AKAI Professional Fire (Controller Only) - **$140** - [link](https://www.amazon.com/dp/B08284R4JZ/)~~
 - [ ] DJ Deck/Controller - I've heard pioneer is a good brand
 - [ ] Studio monitor speakers - As long as they are specifically **studio monitor** speakers, they'll do. Preferably Pioneer or Yamaha brand.
 - [ ] Audio-Technica ATH-M50X Headphones - **$170** - [link](https://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86)
@@ -29,6 +29,8 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 - [ ] Novation Launchpad Pro MK3 - **$300** - [link](https://www.amazon.com/Novation-AMS-LAUNCHPAD-Pro-MK3-Launchpad-Pro-MK3/dp/B083JJZVW7)
 - [ ] Novation Launchpad X - **$150** - [link](https://www.amazon.com/Novation-Launchpad-Grid-Controller-Ableton/dp/B07WWZCMP5)
 - [ ] 2 or 3 octave keyboard MIDI controller - [e.g.](https://www.amazon.com/Novation-Launchkey-MK4-MIDI-Keyboard/dp/B0D6YWDJC2)
+- [ ] Samsung 990 EVO SSD 2TB - **$240** - [link](https://www.amazon.com/gp/product/B0CRC7H66Z/ref=ox_sc_saved_image_3?smid=ATVPDKIKX0DER&psc=1)
+- [ ] SSK Aluminum M.2 NVME SATA SSD Enclosure Adapter - **$20** - [link](https://www.amazon.com/gp/product/B07MNFH1PX?psc=1)
 
 # Gamer shit
 - [ ] PlayStation Vita
