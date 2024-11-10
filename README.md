@@ -20,8 +20,9 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 
 
 # Music
-~~- [x] AKAI Professional Fire (Controller Only) - **$140** - [link](https://www.amazon.com/dp/B08284R4JZ/)~~
+- [x] ~~AKAI Professional Fire (Controller Only) - **$140** - [link](https://www.amazon.com/dp/B08284R4JZ/)~~
 - [ ] DJ Deck/Controller - I've heard pioneer is a good brand
+
 - [ ] Studio monitor speakers - As long as they are specifically **studio monitor** speakers, they'll do. Preferably Pioneer or Yamaha brand.
 - [ ] Audio-Technica ATH-M50X Headphones - **$170** - [link](https://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86)
 - [ ] New microphone - ask Nat if you go this route
