@@ -31,6 +31,7 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 - [ ] 2 or 3 octave keyboard MIDI controller - [e.g.](https://www.amazon.com/Novation-Launchkey-MK4-MIDI-Keyboard/dp/B0D6YWDJC2)
 - [ ] Samsung 990 EVO SSD 2TB - **$240** - [link](https://www.amazon.com/gp/product/B0CRC7H66Z/ref=ox_sc_saved_image_3?smid=ATVPDKIKX0DER&psc=1)
 - [ ] SSK Aluminum M.2 NVME SATA SSD Enclosure Adapter - **$20** - [link](https://www.amazon.com/gp/product/B07MNFH1PX?psc=1)
+- [ ] Tall folding tables
 
 # Gamer shit
 - [ ] PlayStation Vita
