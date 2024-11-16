@@ -41,3 +41,11 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 - [ ] Gamecube controller and USB adapter
 - [ ] JSAUX Sling Bag for Steam Deck - **$46** - [link](https://www.amazon.com/gp/product/B0BL2SVTBY?psc=1)
 - [ ] [Steam wishlist](https://store.steampowered.com/wishlist/id/exaset/)
+
+# Misc. 
+- [ ] I always need external drives, the clowns need a new large (4tb) hard drive for jellyfin
+- [ ] Ethernet to USB cable
+- [ ] DisplayPort cables
+- [ ] New monitor, anything better than 1080p 60hz
+- [ ] Money, I am in so much debt lol
+- [ ] Any random mini PC, these are often cheaper than Raspberry PI's but are much better for what I'd use them for
