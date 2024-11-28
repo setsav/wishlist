@@ -1,3 +1,9 @@
+# Stuff I use for my tech
+-  [ ] New laptop battery, **URGENT.** - **$69.74** - [link](https://www.amazon.com/gp/product/B08T1FW6GF?psc=1) - *Must be this exact model!*
+-  [ ] Hand sanitizer
+-  [ ] Toothpicks
+-  [ ] Pressurized air can
+
 # Framework laptop
 
 The following is a list of items I need to build my preferred laptop upgrade. All of these can be purchased officially from [frame.work](https://frame.work) and not all items need to be purchased at once. Framework laptops are modular, so it is possible to buy the components in small pieces rather than as a whole unit, which would total to about $2700.
@@ -22,7 +28,6 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 # Music
 - [x] ~~AKAI Professional Fire (Controller Only) - **$140** - [link](https://www.amazon.com/dp/B08284R4JZ/)~~
 - [ ] DJ Deck/Controller - I've heard pioneer is a good brand
-
 - [ ] Studio monitor speakers - As long as they are specifically **studio monitor** speakers, they'll do. Preferably Pioneer or Yamaha brand.
 - [ ] Audio-Technica ATH-M50X Headphones - **$170** - [link](https://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86)
 - [ ] New microphone - ask Nat if you go this route
@@ -39,8 +44,17 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 - [ ] Folders for Cyberpunk
 - [ ] Small shelves or bookshelves
 - [ ] Gamecube controller and USB adapter
-- [ ] JSAUX Sling Bag for Steam Deck - **$46** - [link](https://www.amazon.com/gp/product/B0BL2SVTBY?psc=1)
+- [x] ~~JSAUX Sling Bag for Steam Deck - **$46** - [link](https://www.amazon.com/gp/product/B0BL2SVTBY?psc=1)~~
 - [ ] [Steam wishlist](https://store.steampowered.com/wishlist/id/exaset/)
+
+# Getting my life together type beat
+- [ ] Replacement blades for my shaver - **$18.79** - [link](Ahttps://www.amazon.com/gp/product/B095W4N54B?psc=1)
+- [ ] Airtight food storage containers for freezing - [e.g.](https://www.amazon.com/Rubbermaid-Brilliance-Storage-Container-BPA-free/dp/B079M8FPTW)
+- [ ] Amla oil
+- [ ] Cold cream
+- [ ] Retinol drops
+- [ ] Sunscreen
+- [ ] Rosemary oil
 
 # Misc. 
 - [ ] I always need external drives, the clowns need a new large (4tb) hard drive for jellyfin
