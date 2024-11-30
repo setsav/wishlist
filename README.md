@@ -56,6 +56,7 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 - [ ] Retinol drops
 - [ ] Sunscreen
 - [ ] Rosemary oil
+- [ ] Tibetan SIngign Bowl
 
 # Misc. 
 - [ ] I always need external drives, the clowns need a new large (4tb) hard drive for jellyfin
