@@ -45,6 +45,7 @@ The following is a list of items I need to build my preferred laptop upgrade. Al
 - [ ] Small shelves or bookshelves
 - [ ] Gamecube controller and USB adapter
 - [x] ~~JSAUX Sling Bag for Steam Deck - **$46** - [link](https://www.amazon.com/gp/product/B0BL2SVTBY?psc=1)~~
+- [ ] USB-C Extension cable - **$9.98** - [link](https://www.amazon.com/Faracent-Extension-Charging-Nintendo-Touchbar/dp/B071DMMW4J)
 - [ ] [Steam wishlist](https://store.steampowered.com/wishlist/id/exaset/)
 
 # Getting my life together type beat
